@@ -1,0 +1,13 @@
+train: /home/a309/lin/dataset/DIOR_30nc/train/images
+val: /home/a309/lin/dataset/DIOR/val/images
+test: /home/a309/lin/dataset/DIOR/test/images
+#train: /home/a123/lin/DOTA_devkit_YOLO-master/examplesplit/images
+#val: /home/a123/lin/DOTA_devkit_YOLO-master/examplesplit/images
+#test: /home/a123/lin/DOTA_devkit_YOLO-master/examplesplit/images
+nc: 20
+
+# class names
+names: ['airplane', 'airport', 'baseballfield', 'basketballcourt', 'bridge', 'chimney', 'dam',
+              'Expressway-Service-area', 'Expressway-toll-station', 'golffield', 'groundtrackfield', 'harbor',
+              'overpass', 'ship', 'stadium', 'storagetank', 'tenniscourt', 'trainstation', 'vehicle', 'windmill'] 
+
